@@ -1,0 +1,19 @@
+{
+    "name": "aliamohamad/videos",
+    "description": "Um modulo que contabiliza o tempo assistido de um video",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Ali Mohamad",
+            "email": "Ali.Mohamad.uc@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "aliamohamad\\videos\\": "src/Videos"
+        }
+    },
+    "providers": [
+        "aliamohamad\\Videos\\Providers\\VideosServiceProvider"
+    ]
+}

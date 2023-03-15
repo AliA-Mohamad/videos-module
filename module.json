@@ -1,0 +1,13 @@
+{
+    "name": "aliamohamad",
+    "alias": "ali",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "aliamohamad\\Videos\\Providers\\VideosServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
