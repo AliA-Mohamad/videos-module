@@ -1,6 +1,6 @@
 {
     "name": "aliamohamad/videos",
-    "license": "test",
+    "license": "proprietary",
     "description": "Um modulo que contabiliza o tempo assistido de um video",
     "version": "1.0.0",
     "authors": [
