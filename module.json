@@ -1,0 +1,13 @@
+{
+    "name": "Videos",
+    "alias": "videos",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Videos\\Providers\\VideosServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

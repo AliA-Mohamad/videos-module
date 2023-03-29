@@ -1,0 +1,23 @@
+{
+    "name": "aliamohamad/videos",
+    "description": "",
+    "authors": [
+        {
+            "name": "Ali Abbas Mohamad",
+            "email": "ali.mohamad.uc@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Videos\\": ""
+        }
+    }
+}
